@@ -54,8 +54,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=renekurz&show_icons=true&theme=tokyonight&hide_border=true" alt="René's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renekurz&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165"/>
+  <img src="https://github-readme-stats-lilac-seven-93.vercel.app/api?username=renekurz&show_icons=true&theme=tokyonight&hide_border=true" alt="René's GitHub stats" height="165"/>
+  <img src="https://github-readme-stats-lilac-seven-93.vercel.app/api/top-langs/?username=renekurz&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165"/>
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=renekurz&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
