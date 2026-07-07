@@ -8,6 +8,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.scoby.cloud/">
+    <img src="https://img.shields.io/badge/rkurz.dev-10B981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
+  </a>
+  <a href="https://www.scoby.cloud/">
     <img src="https://img.shields.io/badge/scoby.cloud-4C1D95?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
   </a>
 </p>
