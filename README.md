@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.scoby.cloud/">
-    <img src="https://img.shields.io/badge/Website-scoby.cloud-4C1D95?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
+    <img src="https://img.shields.io/badge/scoby.cloud-4C1D95?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
   </a>
 </p>
 
@@ -58,7 +58,7 @@
   <img src="https://github-readme-stats-lilac-seven-93.vercel.app/api/top-langs/?username=renekurz&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=renekurz&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+  <img src="https://streak-stats.demolab.com/?user=renekurz&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </p>
 
 ---
