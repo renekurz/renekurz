@@ -19,7 +19,7 @@
 - 🐍 I mostly build with **Python** — APIs, backend services, and small full-stack tools
 - 💼 Working with the **SAP Cloud Application Programming Model (CAP)** on SAP BTP
 - 🌱 Always learning something new and turning it into a project
-- 🎓 Soon **Claude Certified Architect (CCA)** — currently preparing for the certification
+- 🎓 Soon **Claude Certified Developer (CCDV-F)** — currently preparing for the certification
 - 🏢 Working at [@clouddnagmbh](https://github.com/clouddnagmbh)
 - 🫠 Currently: *focusing*
 - 💬 Ask me about Python, backend development, APIs, and SAP CAP
