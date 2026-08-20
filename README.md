@@ -45,19 +45,6 @@
 
 ---
 
-### 🌐 Live Projects
-
-[![rkurz.dev](https://img.shields.io/badge/Personal_Portfolio-rkurz.dev-10B981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rkurz.dev) 
-<br>My personal corner of the web: a place to introduce myself, showcase the technologies I work with, and collect the projects I'm proud of. Built and deployed by me from the ground up.<br>
-
-[![scoby.cloud](https://img.shields.io/badge/Game_Night_Score_Tracker-scoby.cloud-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://scoby.cloud) 
-<br>A web app that takes the pen and paper out of game night. Add your players, keep score across rounds of your favorite board and card games, and see who's winning at a glance — all from your phone or laptop.<br>
-
-[![salon-book.org](https://img.shields.io/badge/Salon_Booking_System-salon--book.org-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.salon-book.org) 
-<br>A booking and management platform for hair salons. Clients book appointments 24/7 via a personal booking link, while salon owners manage their calendar, team, services and customers in one dashboard — including automatic e-mail confirmations and revenue statistics.<br>
-
----
-
 ### 🚀 Featured Projects
 
 | Project | Description |
