@@ -16,11 +16,12 @@
 
 ### About Me
 
+- 🎓 Studying **Business Informatics (B.Sc.)** at [FH Burgenland](https://www.fh-burgenland.at) in Eisenstadt
 - 🐍 I mostly build with **Python** — APIs, backend services, and small full-stack tools
 - 💼 Working with the **SAP Cloud Application Programming Model (CAP)** on SAP BTP
 - 🌱 Always learning something new and turning it into a project
 - 🏢 Working at [@clouddnagmbh](https://github.com/clouddnagmbh)
-- 🫠 Currently: *focusing*
+- 🫠 Currently: *juggling work, studies & side projects*
 - 💬 Ask me about Python, backend development, APIs, and SAP CAP
 
 ---
